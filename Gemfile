@@ -33,7 +33,6 @@ gem 'jbuilder', '~> 2.5'
 # Spree ===
 gem 'spree', '~> 3.2.1'
 gem 'spree_auth_devise', '~> 3.2'
-gem 'mimemagic', '0.3.10'
 gem 'faker'
 gem 'randexp'
 
