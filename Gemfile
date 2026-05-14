@@ -35,6 +35,7 @@ gem 'spree', '~> 3.2.1'
 gem 'spree_auth_devise', '~> 3.2'
 gem 'faker'
 gem 'randexp'
+gem 'bigdecimal', '1.3.5'
 
 # locks rainbow version because 2.1.1 has an issue: https://github.com/sickill/rainbow/issues/44
 gem 'rainbow', '2.1.0'
