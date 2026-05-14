@@ -36,8 +36,9 @@ gem 'spree_auth_devise', '~> 3.2'
 gem 'faker'
 gem 'randexp'
 gem 'bigdecimal', '1.3.5'
-gem 'loofah', '~> 2.19.1'
-gem 'rails-html-sanitizer', '~> 1.4.3'
+gem 'nokogiri', '1.10.10'
+gem 'loofah', '2.12.0'
+gem 'rails-html-sanitizer', '1.3.0'
 
 # locks rainbow version because 2.1.1 has an issue: https://github.com/sickill/rainbow/issues/44
 gem 'rainbow', '2.1.0'
